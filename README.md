@@ -19,6 +19,10 @@ Used MUI , Bootstrap and Reactstrap fo the Design !
 "@emotion/react": "^11.10.4",
 "@emotion/styled": "^11.10.4",
 
+# APIs
+
+* I've configured the APIs in the config folder with interceptors (route in constant.js and the handling in config.js and made it with headers authorization)
+
 # In the package.json you will se Eslint lint fix configured ( Run it using npm run lint:fix )
 
 # I left some clg commented under the purpose of guidance .
